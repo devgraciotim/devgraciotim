@@ -1,5 +1,7 @@
 ## Olá! eu sou João Graciotim, Estudante e Futuro Dev
 
+![João Graciotim's GitHub stats](https://github-readme-stats.vercel.app/api?username=devgraciotim&show_icons=true&theme=dracula)
+
 - 🌱 Estudando Javascript
 <hr>
 <div style="display: inline_block" justfy-content: "center">
