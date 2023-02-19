@@ -2,7 +2,7 @@
 ## Olá! Me chamo João Graciotim, Estudante e Futuro Dev
 
 <div style="display: inline_block" align="center"> 
-🌱 Estudando Javascript
+🌱 Aprendendo C, na Faculdade UniAmerica
 </div>
 
   <br>
