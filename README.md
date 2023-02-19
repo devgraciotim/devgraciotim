@@ -14,7 +14,7 @@
   </a>
 </div>
   
-  https://cdn.discordapp.com/attachments/1070844523774758923/1076933963014209536/5a36954d40bea2.0735336615135266052652.png
+ 
 
 <hr>
 <div style="display: inline_block" align="center">
