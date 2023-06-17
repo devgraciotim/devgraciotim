@@ -9,17 +9,18 @@
 </div>
 
   <br>
- 
-<div align="center">
+
+
+  <div align="center">
   <a href="https://github.com/duribeiro">
-    <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api?username=devgraciotim&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
-    <img height="150em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgraciotim&theme=dracula&hide_border=false&&layout=compact"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=devgraciotim&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgraciotim&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-  
- 
 
 <hr>
+
+
 <div style="display: inline_block" align="center">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
