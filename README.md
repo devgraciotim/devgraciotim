@@ -1,6 +1,6 @@
-<div style="display: inline_block" align="center"> 
+
 ## Olá! Me chamo João Graciotim, Estudante e Futuro Dev
-</div>
+
 
 <div style="display: inline_block" align="center"> 
 🌱 Estudando Desenvolvimento Web
