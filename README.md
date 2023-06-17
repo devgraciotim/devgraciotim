@@ -1,5 +1,7 @@
 
-##         Olá! Me chamo João Graciotim, Estudante e Futuro Dev
+<h1 align="center">
+    Olá! Me chamo João Graciotim, Estudante e Futuro Dev
+</h1>        
 
 
 <div style="display: inline_block" align="center"> 
