@@ -1,5 +1,3 @@
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
-
 <h1 align="center">
     Hello World! Me chamo João Graciotim, Estudante e Futuro Dev
 </h1>
@@ -35,7 +33,6 @@
         src="https://cdn.discordapp.com/attachments/1070844523774758923/1076933963014209536/5a36954d40bea2.0735336615135266052652.png">
     <img align="center" alt="C" height="40" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-    <img align="center" alt="C" height="40" width="40"><i class="devicon-react-original colored"></i></img>
 </div>
 <hr>
 
