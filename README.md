@@ -27,12 +27,14 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="CSS" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
+    <img align="center" alt="CSS" height="30" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
     <img align="center" alt="Js" height="30" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="C" height="40" width="40"
-        src="https://cdn.discordapp.com/attachments/1070844523774758923/1076933963014209536/5a36954d40bea2.0735336615135266052652.png">
-    <img align="center" alt="C" height="40" width="40"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">    
 </div>
 <hr>
 
