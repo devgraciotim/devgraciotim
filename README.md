@@ -4,7 +4,7 @@
 
 
 <div style="display: inline_block" align="center">
-    🌱 Estudando Desenvolvimento Web
+    🌱 Estudando Desenvolvimento Mobile
 </div>
 
 <br>
