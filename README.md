@@ -27,13 +27,15 @@
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="CSS" width="50"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+    <img align="center" alt="JS" width="50"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="SASS" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
     <img align="center" alt="BOOTSTRAP" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="JS" height="30" width="50"
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="REACT" height="40" width="50"
+    <img align="center" alt="GIT" width="50"
+        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">    
+    <img align="center" alt="REACT" width="50"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">    
 </div>
 <hr>
