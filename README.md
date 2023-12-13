@@ -1,10 +1,10 @@
 <h1 align="center">
-    Hello World! Me chamo João Graciotim, Estudante e Futuro Dev
+    Hello World! My name is João Graciotim.
 </h1>
 
 
 <div style="display: inline_block" align="center">
-    🌱 Estudando Desenvolvimento Web
+    🌱 Studying Back End Development
 </div>
 
 <br>
