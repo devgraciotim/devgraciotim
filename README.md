@@ -23,20 +23,24 @@
 
 
 <div style="display: inline_block" align="center">
-    <img align="center" alt="HTML" width="50"
+    <img align="center" alt="HTML" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="CSS" width="50"
+    <img align="center" alt="CSS" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-    <img align="center" alt="JS" width="50"
+    <img align="center" alt="JS" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="SASS" width="50"
+    <img align="center" alt="SASS" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
-    <img align="center" alt="BOOTSTRAP" width="50"
+    <img align="center" alt="BOOTSTRAP" width="40"
         src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
-    <img align="center" alt="GIT" width="50"
+    <img align="center" alt="GIT" width="40"
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">    
-    <img align="center" alt="REACT" width="50"
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg">    
+    <img align="center" alt="NODE" width="40" style="color: white;"
+        src="https://camo.githubusercontent.com/2cde166000bd4271614ef8c0a7e435af8a087c05f4d5a36f1945663d363bd463/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f67682f64657669636f6e732f64657669636f6e2f69636f6e732f6e6f64656a732f6e6f64656a732d6f726967696e616c2e737667"> 
+    <img align="center" alt="WEBPACK" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg">   
+    <img align="center" alt="BABEL" width="40"
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/babel/babel-original.svg"> 
 </div>
 <hr>
 
