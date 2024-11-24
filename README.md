@@ -1,5 +1,5 @@
 <p align="center">
-   <img src="" width="190" > 
+   <img src="https://github.com/devgraciotim/devgraciotim/blob/main/jg.png" width="190" > 
    <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Cairo+Play&color=D3D3D3&size=50&center=true&vCenter=true&width=900&height=100&lines=-+Hello!+-;-+I'm+João+Graciotim+-;-+Back+End+Developer+-;-+Focused+on+Learning+-">
   </a>
