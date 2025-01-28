@@ -9,10 +9,6 @@
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/devgraciotim?color=FFD700&style=for-the-badge&labelColor=grey&logo=star"/></a>
   <a href="https://github.com/devgraciotim?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/devgraciotim?color=3CB371&labelColor=greyba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
-   
-  <a href="https://github.com/devgraciotim/ViewCounter">
-    <img alt="views" title="GitHub profile views" src="https://darkseagreen-dotterel-356667.hostingersite.com/"/>
-</a>
 </p>
 
 <br><br>
