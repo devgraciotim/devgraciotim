@@ -83,7 +83,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=devgraciotim&show_icons=true&count_private=true&bg_color=00000000&title_color=8A2BE2&text_color=cfcfcf&icon_color=8A2BE2&hide_border=true" alt="Devgraciotim GitHub Stats" width = 700px />
 </td>
 <td align="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgraciotim&langs_count=7&bg_color=00000000&title_color=8A2BE2&text_color=cfcfcf&icon_color=8A2BE2&hide_border=true" alt="devgraciotim Top Languages" width = 500px />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=devgraciotim&langs_count=10&bg_color=00000000&title_color=8A2BE2&text_color=cfcfcf&icon_color=8A2BE2&hide_border=true" alt="devgraciotim Top Languages" width = 500px />
   </td>
 </tr>
 </table>
